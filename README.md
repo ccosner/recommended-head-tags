@@ -31,6 +31,7 @@
 <html lang="en">
 ```
 Language is included in the opening HTML tag
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang
 
 ---
@@ -40,6 +41,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang
 <title>This is the page title</title>
 ```
 Title tag unique for every page
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
 
 ---
@@ -49,6 +51,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title
 <meta name="description" content="150 words">
 ```
 Meta description is what shows up on the search engine results page (SERP)
+
 https://developers.google.com/search/docs/advanced/appearance/snippet
 
 ---
@@ -58,6 +61,7 @@ https://developers.google.com/search/docs/advanced/appearance/snippet
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 ```
 Mitigate and report XSS attacks
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
 
 ---
@@ -81,6 +85,7 @@ Meta canonical tag addresses duplicate content issues with multiple pages/URLs
 <meta property="og:description" content="" />
 <meta property="og:image" content="http://" />
 ```
+
 https://developers.facebook.com/docs/sharing/webmasters
 
 ---
@@ -90,6 +95,7 @@ https://developers.facebook.com/docs/sharing/webmasters
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@site_account">
 ```
+
 https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
 
 ---
