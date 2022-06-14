@@ -104,8 +104,6 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_hea
 
 
 ## Testing
-* Twitter: https://dev.twitter.com/docs/cards/validation/validator
-* Facebook: https://developers.facebook.com/tools/debug
-* Google: http://www.google.com/webmasters/tools/richsnippets
-* Pinterest: http://developers.pinterest.com/rich_pins/validator/
-* Google Structured Data: https://developers.google.com/structured-data/testing-tool/
+* LinkedIn: https://www.linkedin.com/post-inspector/
+* Twitter: https://cards-dev.twitter.com/validator
+* Facebook: https://developers.facebook.com/tools/debug/
